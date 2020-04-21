@@ -1,0 +1,208 @@
+{
+    "locale": "fr-FR",
+    "currency": "EUR",
+    "strings":{
+        "Oops... an error occurred, if the problem persists contact a developer on the support server.": "Oops... an error occurred, if the problem persists contact a developer on the support server.",
+        "{0} | This command is currently disabled": "{0} | This command is currently disabled",
+        "{0} | The command can only be used in an NSFW channel": "{0} | The command can only be used in an NSFW channel",
+        "{0} | This command can only be used in a server": "{0} | This command can only be used in a server",
+        "{0} | This command can only be used by my owner": "{0} | This command can only be used by my owner",
+        "{0} | This command can only be used on premium servers": "{0} | This command can only be used on premium servers",
+        "{0} | You need the following permission(s): {1}": "{0} | You need the following permission(s): {1}",
+        "{0} | I need the following permission(s): {1}": "{0} | I need the following permission(s): {1}",
+        "{0} | Please be patient {1} seconds": "{0} | Please be patient {1} seconds",
+        "{0} | Your message has been deleted because it contained an invitation": "{0} | Your message has been deleted because it contained an invitation",
+        "👋 Hey {0}! You need my prefix? Here it is `{1}`. Good use 😉": "👋 Hey {0}! You need my prefix? Here it is `{1}`. Good use 😉",
+        "{0} | Please choose between: `{1}`": "{0} | Please choose between: `{1}`",
+        "{0} | Please mention a valid role": "{0} | Please mention a valid role",
+        "{0} | Please mention a valid member": "{0} | Please mention a valid member",
+        "{0} | Please mention a valid channel": "{0} | Please mention a valid channel",
+        "{0} | Please enter a valid number": "{0} | Please enter a valid number",
+        "{0} | Please enter a valid message": "{0} | Please enter a valid message",
+        "{0} | Please enter a valid URL": "{0} | Please enter a valid URL",
+        "{0} | Please enter a valid file": "{0} | Please enter a valid file",
+        "{0} | You can't punish yourself": "{0} | You can't punish yourself",
+        "{0} | Oh no... that server looks blacklisted": "{0} | Oh no... that server looks blacklisted",
+
+        "Examples": "Examples",
+        "Category": "Category",
+        "Name": "Name",
+        "Author": "Author",
+        "Duration": "Duration",
+        "Request By": "Request By",
+        "No reason": "No reason",
+        "Click here": "Click here",
+        "No aliases set": "No aliases set",
+
+        "{0} | Language changed to {1}": "{0} | Language changed to {1}",
+
+        "Ping calculation in progress...": "Ping calculation in progress...",
+        "Ping of the bot: {0}ms{1}": "Ping of the bot: {0}ms{1}",
+
+        "{0} | Autorole has been disabled": "{0} | Autorole has been disabled",
+        "{0} | Autorole ({1}) has been activated and set to {2}": "{0} | Autorole ({1}) has been activated and set to {2}",
+
+        "{0} | Please enter a valid prefix": "{0} | Please enter a valid prefix",
+        "{0} | The prefix was set to `{1}`": "{0} | The prefix was set to `{1}`",
+
+        "{0} | Messages containing an invitation will no longer be deleted": "{0} | Messages containing an invitation will no longer be deleted",
+        "{0} | Messages containing an invitation will be deleted": "{0} | Messages containing an invitation will be deleted",
+        "{0} | Messages containing an invitation will no longer be filtered in {1}": "{0} | Messages containing an invitation will no longer be filtered in {1}",
+        "{0} | Messages containing an invitation will now be filtered {1}": "{0} | Messages containing an invitation will now be filtered {1}",
+        "{0} | Invitation are already filtered in {1}": "{0} | Ads are already filtered in {1}",
+        "{0} | Invitation are already not filtered in {1}": "{0} | Ads are already not filtered in {1}",
+        "{0} | Self-bots will be banned": "{0} | Self-bots will be banned",
+        "{0} | Self-bots are now allowed": "{0} | Self-bots are now allowed",
+
+        "🔔 Reminder: `[]` is optional; `<>` is obligatory.": "🔔 Reminder: `[]` is optional; `<>` is obligatory.",
+        "Command information {0}": "Command information {0}",
+        "Description (only english)": "Description (only english)",
+        "{0} | The command was not found": "{0} | The command was not found",
+
+        "Good news! 😄\n\nYour server has been checked by the bot's creator, you will now have a little emojis in the `serverinfo` and you got the premium.\n\nHave a nice day 👋": "Good news! 😄\n\nYour server has been checked by the bot's creator, you will now have a little emojis in the `serverinfo` and you got the premium.\n\nHave a nice day 👋",
+
+        "{0} | Please enter an amount of messages to delete": "{0} | Please enter an amount of messages to delete",
+        "{0} | {1} bots messages have been deleted": "{0} | {1} bots messages have been deleted",
+        "{0} | {1} messages from {2} have been deleted": "{0} | {1} messages from {2} have been deleted",
+        "{0} | {1} messages containing a file/attachment have been deleted": "{0} | {1} messages containing a file/attachment have been deleted",
+        "{0} | {1} messages have been deleted": "{0} | {1} messages have been deleted",
+
+        "{0} | Please connect to a voice channel": "{0} | Please connect to a voice channel",
+        "{0} | Please give the name of a music": "{0} | Please give the name of a music",
+        "{0} | YouTube streams are not supported": "{0} | YouTube streams are not supported",
+        "{0} | Playlist added in queue!": "{0} | Playlist added in queue!",
+        "{0} | {1} has been added to the queue": "{0} | {1} has been added to the queue",
+        "{0} | I'm not playing music": "{0} | I'm not playing music",
+        "{0} | The music's been stopped": "{0} | The music's been stopped",
+        "{0} | The music has just been paused": "{0} | The music has just been paused",
+        "{0} | The music has been restarted": "{0} | The music has been restarted",
+        "{0} | The queue will no longer be played in a loop": "{0} | The queue will no longer be played in a loop",
+        "{0} | The queue will longer be played in a loop": "{0} | The queue will longer be played in a loop",
+
+        "{0} | **{1}#{2}** was banned for `{3}` by **{4}#{5}**": "{0} | **{1}#{2}** was banned for `{3}` by **{4}#{5}**",
+        "{0} | **{1}#{2}** cannot be banned": "{0} | **{1}#{2}** cannot be banned",
+
+        "{0} | Please specify the name of a channel": "{0} | Please specify the name of a channel",
+        "{0} | This twitch channel doesn't exist": "{0} | This twitch channel doesn't exist",
+        "😩 Too many requests to the API have been sent and we have been blocked": "😩 Too many requests to the API have been sent and we have been blocked",
+
+        "{0} | No users have been kicked": "{0} | No users have been kicked",
+        "{0} | {1} people were kicked for `{2}`": "{0} | {1} people were kicked for `{2}`",
+        
+        "{0} | Loading channels... Please wait": "{0} | Loading channels... Please wait",
+        "{0} | Channels created!": "{0} | Channels created!",
+
+        "{0} | Please indicate a valid location": "{0} | Please indicate a valid location",
+
+        "{0} | Levels are now activated! 🎉": "{0} | Levels are now activated! 🎉",
+        "{0} | Levels are now disabled": "{0} | Levels are now disabled",
+        "{0} | Please put a message": "{0} | Please put a message",
+        "{0} | The message of the levels has been changed": "{0} | The message of the levels has been changed",
+
+        "{0} | This user has no rank": "{0} | This user has no rank",
+
+        "{0} | **{1}#{2}** has been muted for `{3}`": "{0} | **{1}#{2}** has been muted for `{3}`",
+        "{0} | {1} is already mute": "{0} | {1} is already mute",
+        "{0} | **{1}#{2}** can't be mute": "{0} | **{1}#{2}** can't be mute",
+        "{0} | **{1}#{2}** has been unmuted": "{0} | **{1}#{2}** has been unmuted",
+        "{0} | {1} isn't muted": "{0} | {1} isn't muted",
+
+        "{0} | {1} has no profile": "{0} | {1} has no profile",
+        "{0} | You already have a profile": "{0} | You already have a profile",
+        "{0} | You start creating your profile! What will be your name?": "{0} | You start creating your profile! What will be your name?",
+        "{0} | Well {1}, how old will you be in this game?": "{0} | Well {1}, how old will you be in this game?",
+        "{0} | What race will you be? Choice available: {1}": "{0} | What race will you be? Choice available: {1}",
+        "{0} | Your profile has been successfully created! Use {1}job to get a job, {2}work to go to work and {3}farm to go pick up items": "{0} | Your profile has been successfully created! Use {1}job to get a job, {2}work to go to work and {3}farm to go pick up items",
+        "{0} | Please wait {1} hour(s) {2} minute(s) before you can work again": "{0} | Please wait {1} hour(s) {2} minute(s) before you can work again",
+        "{0} | You worked very hard today! Your boss is proud of you and offers you ${1}!": "{0} | You worked very hard today! Your boss is proud of you and offers you ${1}!",
+        "{0} | Today you worked and won ${1}": "{0} | Today you worked and won ${1}",
+        "{0} | You already have a job": "{0} | You already have a job",
+        "{0} | Here's your new job: {1}": "{0} | Here's your new job: {1}",
+        "{0} | You're already married... don't betray your half...": "{0} | You're already married... don't betray your half...",
+        "{0} | Oh, man... {0}'s already married to someone else.": "{0} | Oh, man... {0}'s already married to someone else.",
+        "{0} | You can't marry yourself": "{0} | You can't marry yourself",
+        "{0} | {1} do you want to marry {2}? To cherish him/her in life as well as in death.": "{0} | {1} do you want to marry {2}? To cherish him/her in life as well as in death.",
+        "{0} | Bad news {1}, {2} hasn't accepted your marriage proposal :sob:": "{0} | Bad news {1}, {2} hasn't accepted your marriage proposal :sob:",
+        "{0} | Good news {1}, {2} has agreed to marry you! Celebrations! :tada: :clap:`": "{0} | Good news {1}, {2} has agreed to marry you! Celebrations! :tada: :clap:",
+        "{0} | You left **{1}**, I just told him the bad news": "{0} | You left **{1}**, I just told him the bad news",
+        "{0} | Bad news today... {1} has decided to leave you today...": "{0} | Bad news today... {1} has decided to leave you today...",
+        "{0} | Thank you for getting married": "{0} | Thank you for getting married",
+        "{0} | Please wait {1} hour(s) {2} minute(s) before you can give a reputation point again": "{0} | Please wait {1} hour(s) {2} minute(s) before you can give a reputation point again",
+        "{0} | You can't give yourself a reputation point": "{0} | You can't give yourself a reputation point",
+        "{0} | Bots don't have profiles": "{0} | Bots don't have profiles",
+        "{0} | You gave a reputation point to **{1}**": "{0} | You gave a reputation point to **{1}**",
+
+        "{0} | The mute will no longer have a nickname": "{0} | The mute will no longer have a nickname",
+        "{0} | The mute will have a nickname": "{0} | The mute will have a nickname",
+
+        "{0} | Your reminder has been successfully saved!Your reminder has been successfully saved!": "{0} | Your reminder has been successfully saved!Your reminder has been successfully saved!",
+
+        "__**Welcome to the embeds creation menu!**__\n\n🖼️●To add a photo to the embed\n👤●To add a name to the author\n👁️●To add a photo to the author\n📰●To add a title\n🏷️●To add a description\n📆●To add a thumbnail\n\n✅●Validate the creation of the embed\n❌●Cancel the embed creation": "__**Welcome to the embeds creation menu!**__\n\n🖼️●To add a photo to the embed\n👤●To add a name to the author\n👁️●To add a photo to the author\n📰●To add a title\n🏷️●To add a description\n📆●To add a thumbnail\n\n✅●Validate the creation of the embed\n❌●Cancel the embed creation",
+        "{0} | Well, what's the **URL** of the picture?": "{0} | Well, what's the **URL** of the picture?",
+        "{0} | What will be the name of the author? :thinking:": "{0} | What will be the name of the author? :thinking:",
+        "{0} | What will be the author's avatar? (Sending a URL)": "{0} | What will be the author's avatar? (Sending a URL)",
+        "{0} | What will be the title?": "{0} | What will be the title?",
+        "{0} | What will be the description?": "{0} | What will be the description?",
+        "{0} | What's the thumbnail? (Sending a URL)": "{0} | What's the thumbnail? (Sending a URL)",
+        "{0} | Your embed could not be created, please check the information provided": "{0} | Your embed could not be created, please check the information provided",
+
+        "{0} | Thank you for giving a poll": "{0} | Thank you for giving a poll",
+
+        "{0} | {1} is not banned": "{0} | {1} is not banned",
+        "{0} | {1} was unbanned for `{2}`": "{0} | {1} was unbanned for `{2}`",
+
+        "{0} | Stop spamming, you're going to get kick": "{0} | Stop spamming, you're going to get kick",
+        "{0} | {1} ({2}) has been kicked for spam": "{0} | {1} ({2}) has been kicked for spam",
+        "{0} | Members who spam will no longer be kicked": "{0} | Members who spam will no longer be kicked",
+        "{0} | Members who spam will be automatically kicked": "{0} | Members who spam will be automatically kicked",
+
+        "{0} | **{1}** has been warned for `{2}`": "{0} | **{1}** has been warned for `{2}`",
+        "{0} | You have been warned in **{1}** by **{2}** for `{3}`": "{0} | You have been warned in **{1}** by **{2}** for `{3}`",
+
+        "{0} | Messages with 70% capitalization will be deleted": "{0} | Messages with 70% capitalization will be deleted",
+        "{0} | Messages containing too many capital letters will no longer be deleted": "{0} | Messages containing too many capital letters will no longer be deleted",
+        "{0} | This server prohibits TOO CAPITAL LETTERS": "{0} | This server prohibits TOO CAPITAL LETTERS",
+
+        "{0} | From now on the members won't be {1} with too many warns": "{0} | From now on the members won't be {1} with too many warns",
+        "{0} | From now on, users with {1} warn will be {2}": "{0} | From now on, users with {1} warn will be {2}",
+
+        "{0} | Please enter a valid minecraft IP": "{0} | Please enter a valid minecraft IP",
+
+        "{0} | Please enter a valid name": "{0} | Please enter a valid name",
+        "{0} | Please enter a valid discriminator": "{0} | Please enter a valid discriminator",
+
+        "{0} | This command already exists": "{0} | This command already exists",
+        "{0} | The command `{1}` has been successfully created!": "{0} | The command `{1}` has been successfully created!",
+        "{0} | The command has been successfully deleted!": "{0} | The command has been successfully deleted!",
+        "{0} | The command `{1}` has been successfully disabled!": "{0} | The command `{1}` has been successfully disabled!",
+        "{0} | The command `{1}` has been successfully activated!": "{0} | The command `{1}` has been successfully activated!",
+        "{0} | The command is already disabled": "{0} | The command is already disabled",
+
+        "{0} | You have already reached the last possible third": "{0} | You have already reached the last possible third",
+        "{0} | You need more wood!": "{0} | You need more wood!",
+        "{0} | You need more iron!": "{0} | You need more iron!",
+        "{0} | You need more gold!": "{0} | You need more gold!",
+        "{0} | You just made a wooden pickaxe": "{0} | You just made a wooden pickaxe",
+        "{0} | You just made an iron pickaxe": "{0} | You just made an iron pickaxe",
+        "{0} | You just made a gold pickaxe": "{0} | You just made a gold pickaxe",
+
+        "{0} | Please wait {1} hour(s) {2} minute(s) before you can farm again": "{0} | Please wait {1} hour(s) {2} minute(s) before you can farm again",
+
+        "{0} | The role `{1}` will no longer be given": "{0} | The role `{1}` will no longer be given",
+        "{0} | The role `{1}` will be given at level {2}": "{0} | The role `{1}` will be given at level {2}",
+        "{0} | The font of the `rank` has been changed": "{0} | The font of the `rank` has been changed",
+
+        "{0} | This date is an invalid date. Try like this: 10/06 (day/month)": "{0} | This date is an invalid date. Try like this: 10/06 (day/month)",
+        "{0} | The date of your birthday has been successfully saved!": "{0} | The date of your birthday has been successfully saved!",
+
+        "{0} | The channel of the logs has been well defined": "{0} | The channel of the logs has been well defined",
+        "{0} | All logs has been activated": "{0} | All logs has been activated",
+        "{0} | The log `{1}` has been enabled": "{0} | The log `{1}` has been enabled",
+        "{0} | Logs have been disabled": "{0} | Logs have been disabled",
+        "{0} | All logs has been desactivated": "{0} | All logs has been desactivated",
+        "{0} | The log `{1}` has been desactivated": "{0} | The log `{1}` has been desactivated",
+
+        "{0} | Your file has been successfully saved with the name `{1}` and the id `{2}`": "{0} | Your file has been successfully saved with the name `{1}` and the id `{2}`",
+        "{0} | The file with the ID `{1}` has been deleted": "{0} | The file with the ID `{1}` has been deleted"
+    }
+}
